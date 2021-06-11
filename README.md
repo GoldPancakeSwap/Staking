@@ -1,0 +1,2 @@
+# Staking
+GoldCake Staking
